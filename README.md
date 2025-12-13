@@ -13,11 +13,6 @@ Flight delay and cancellation prediction system using 2023 US flights dataset (m
 
 **Stack:** Python, JAX, XGBoost, LightGBM, PostgreSQL, FastAPI, React, scikit-learn
 
-### Automated Job Posting Analyzer (2025)
-Automated system for detecting and analyzing job postings on Instagram, reducing manual search time by 90%. Built complete data pipeline from web scraping to structured SQL storage, with OCR and NLP entity extraction.
-
-**Stack:** Python, Selenium, Tesseract OCR, spaCy, SQLAlchemy, Flask, SQLite
-
 ## Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,12 +23,6 @@ Automated system for detecting and analyzing job postings on Instagram, reducing
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-**Certifications:** Samsung Innovation Campus (AI & Python, 2025) | Cisco Networking Academy (Python, 2023)
-
-**Languages:** English (Advanced) | Spanish (Native) | Mandarin (Basic)
 
 ---
 
