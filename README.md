@@ -2,7 +2,7 @@
 
 ## About
 
-Final-year Systems and Computer Engineering student at Universidad Tecnológica de Panamá, specializing in Data Science and Machine Learning. I build end-to-end data pipelines, predictive models, and optimization algorithms for large-scale datasets.
+Final-year Systems and Computer Engineering student at Universidad Tecnológica de Panamá, specializing in Data Engineering. I build end-to-end data pipelines, predictive models, and optimization algorithms for large-scale datasets.
 
 📍 Panama City, Panama | 📧 lauramagdalena16@gmail.com
 
